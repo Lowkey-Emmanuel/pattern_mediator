@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:50%;" />
 </div>  
 
 ## <div align="center">Nous sommes de la L3️⃣GLSI🅱️ et notre groupe est constitué de:</div>  
