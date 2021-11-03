@@ -5,12 +5,12 @@ public class TestMediator {
     public static void main(String[] args) {
             
         FeuMediator mediator = new FeuMediator();
-        Feu red = new Feu("Red", mediator);
-        Feu green = new Feu("Green", mediator);
-        Feu yellow = new Light("Yellow", mediator);
+        Feu rouge = new Feu("Rouge", mediator);
+        Feu vert = new Feu("Vert", mediator);
+        Feu jaune = new Light("Jaune", mediator);
             
-        red.turnON();
-        green.turnON();
-        yellow.turnON();
+        rouge.turnON();
+        vert.turnON();
+        jaune.turnON();
     }
 }
