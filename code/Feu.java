@@ -6,8 +6,13 @@ class Feu {
     enum Etat {
         ON, OFF
     }
+
+    enum Couleur {
+        ON, OFF
+    }
+
  
-    private String couleur;
+    private Couleur couleur;
     private Etat etatActuel;
     private FeuMediator mediator;
  
